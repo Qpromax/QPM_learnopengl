@@ -1,0 +1,9 @@
+.vs
+.idea
+.git
+Debug
+x64
+backup.txt
+project1.vcxproj.filters
+project1.vcxproj.user
+imgui
