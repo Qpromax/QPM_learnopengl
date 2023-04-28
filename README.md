@@ -1,3 +1,3 @@
-# QPM_opengl-TheCherno-
+# QPM_learnopengl
 
 almost done
